@@ -12,7 +12,8 @@ Continuing with Personal Homepage
 - visual studio code and live server
 - Git & GitHub
 ## How to View
-clone the repository and open the folder in visual studio code with live server extension or after cloning open index.html in any web browser.
+- clone the repository and open index.html in any web browser
+- or after cloning , use visual studio code with live server extension to open the file.
 ## Author
 INTERNEE MUHWEZI ASAPH
 UTAMU STUDENT 
